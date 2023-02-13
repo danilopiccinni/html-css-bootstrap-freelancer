@@ -13,3 +13,10 @@ a {
     background-color: yellow;
     border-radius: 50%;
 }
+
+.img-card {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+}
