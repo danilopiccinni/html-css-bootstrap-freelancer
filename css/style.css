@@ -6,3 +6,10 @@ a {
     border: 1px solid red;
     background-color: rgba(248, 32, 32, 0.747);
 }
+
+.img-header {
+    width: 150px;
+    height: 150px;
+    background-color: yellow;
+    border-radius: 50%;
+}
