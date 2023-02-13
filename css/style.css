@@ -20,3 +20,8 @@ a {
     background-color: yellow;
     border-radius: 50%;
 }
+
+.button-section-3 {
+    background-color: green;
+    align-items: flex-start;
+}
