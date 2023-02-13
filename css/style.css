@@ -1,0 +1,8 @@
+a {
+    color: white;
+    text-decoration: none;
+}
+.debug {
+    border: 1px solid red;
+    background-color: rgba(248, 32, 32, 0.747);
+}
