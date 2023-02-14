@@ -37,3 +37,7 @@ header {
     background-color: #2d3e50;
 }
 
+.linea-sep {
+    border-bottom: 1px solid black;
+}
+
