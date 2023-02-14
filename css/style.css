@@ -19,7 +19,7 @@ header {
 }
 
 .__h1 {
-    font-size: 70px;
+    font-size: 50px;
 }
 
 header span {
@@ -54,6 +54,10 @@ header span {
 .contact-message {
     height: 150px;
 }
+
+.commento {
+    color: #585c5e;
+}
 /* sezione3 */
 /* ------------------------- */
 
@@ -74,9 +78,13 @@ header span {
 /* ------------------------- */
 /* linea speciale separatoria */
 .linea-sep {
-    max-width: 300px;
-    border-bottom: 1px solid black;
-    height: 15px;
+    max-width: 150px;
+    border-bottom: 2px solid black;
+    height: 16px;
+}
+
+.white {
+    border-bottom: 2px solid white;
 }
 /* /linea speciale separatoria */
 
