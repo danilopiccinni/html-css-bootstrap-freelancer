@@ -18,14 +18,14 @@ nav {
     background-color: #2d3e50;
 }
 
-
-/* test */
-.img-header {
-    width: 150px;
-    height: 150px;
-    background-color: yellow;
-    border-radius: 50%;
+header {
+    background-color: #19bc9b;
 }
+
+
+
+
+
 
 .img-card {
     width: 100px;
