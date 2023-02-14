@@ -1,34 +1,65 @@
+/* nav */
+nav {
+    background-color: #2d3e50;
+} 
+
 .button-nav{
     background-color: transparent;
     border: none;
     font-weight: bold;
 }
+/* /nav */
+/* ------------------------- */
 
-.button-section-2 {
-    background-color: transparent;
-    border-color: white;
 
-}
-
-.contact-message {
-    height: 150px;
-}
-
-nav {
-    background-color: #2d3e50;
-}
-
+/* ------------------------- */
+/* header */
 header {
     background-color: #19bc9b;
 }
 
+.__h1 {
+    font-size: 70px;
+}
+
+header span {
+    font-size: 30px;
+}
+.img-header {
+    width: 50%;
+}
+/* /header */
+/* ------------------------- */
+
+
+/* ------------------------- */
+/* sezione2 */
 .section-2 {
     background-color: #19bc9b;
 }
 
+.button-section-2 {
+    background-color: transparent;
+    border-color: white;
+}
+/* /sezione2 */
+/* ------------------------- */
+
+
+/* ------------------------- */
+/* sezione3 */
 .__bottone {
     background-color: #19bc9b;
 }
+.contact-message {
+    height: 150px;
+}
+/* sezione3 */
+/* ------------------------- */
+
+
+/* ------------------------- */
+/* footer */
 .footer-top {
     background-color: #3a546d;
 }
@@ -36,21 +67,23 @@ header {
 .footer-bottom {
     background-color: #2d3e50;
 }
+/* /footer */
+/* ------------------------- */
 
+
+/* ------------------------- */
+/* linea speciale separatoria */
 .linea-sep {
+    max-width: 300px;
     border-bottom: 1px solid black;
+    height: 15px;
 }
+/* /linea speciale separatoria */
 
-.__h1 {
-    font-size: 70px;
-}
 
-.img-header {
-    width: 50%;
-}
 
-header span {
-    font-size: 30px;
-}
+
+
+
 
 
