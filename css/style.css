@@ -41,3 +41,15 @@ header {
     border-bottom: 1px solid black;
 }
 
+.__h1 {
+    font-size: 70px;
+}
+
+.img-header {
+    width: 50%;
+}
+
+header span {
+    font-size: 30px;
+}
+
