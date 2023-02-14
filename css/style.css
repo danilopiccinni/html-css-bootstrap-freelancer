@@ -3,6 +3,17 @@
     border: none;
 }
 
+.button-section-2 {
+    background-color: transparent;
+    border-color: white;
+
+}
+
+.contact-message {
+    height: 150px;
+}
+
+/* test */
 .img-header {
     width: 150px;
     height: 150px;
@@ -16,13 +27,6 @@
     background-color: yellow;
     border-radius: 50%;
 }
+/* /test */
 
-.button-section-2 {
-    background-color: transparent;
-    border-color: white;
 
-}
-
-.contact-message {
-    height: 150px;
-}
