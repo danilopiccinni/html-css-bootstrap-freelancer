@@ -1,6 +1,7 @@
 .button-nav{
     background-color: transparent;
     border: none;
+    font-weight: bold;
 }
 
 .button-section-2 {
@@ -12,6 +13,11 @@
 .contact-message {
     height: 150px;
 }
+
+nav {
+    background-color: #2d3e50;
+}
+
 
 /* test */
 .img-header {
